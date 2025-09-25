@@ -1,19 +1,8 @@
 ---
-date: 2022-01-06
-category:
-  - Category A
-  - Category B
-tag:
-  - tag A
-  - tag B
+date: 2022-01-01
+image: ./portfolio/w1.jpeg
 ---
 
-# Article 6
+# NCSA CTI
 
-## Heading 2
-
-Here is the content.
-
-### Heading 3
-
-Here is the content.
+Used Kibana to explore and design queries on Elasticsearch data. Retrieved, summarized, and stored threat intelligence (malware, TTPs, vulnerabilities, IoCs) into the NCSA CTI database, and developed APIs to feed the dashboard.

@@ -1,4 +1,6 @@
 <script setup>
+import { withBase } from 'vuepress/client'
+
 defineProps({
    /** Article items */
    items: {
@@ -15,19 +17,23 @@ defineProps({
       <div v-if="!items.length">Nothing in here.</div>
 
       <article v-for="{ info, path } in items" :key="path" class="article" @click="$router.push(path)">
-         <header class="title">
-            {{ info.title }}
-         </header>
+         <div class="article-content">
+            <img v-if="info.image" :src="withBase(info.image)" class="cover-image" />
+            <div class="article-text">
+               <header class="title">
+                  {{ info.title }}
+               </header>
 
-         <hr />
+               <hr />
 
-         <div class="article-info">
-            <span v-if="info.author" class="author">Author: {{ info.author }}</span>
+               <div class="article-info">
+                  <span v-if="info.author" class="author">Author: {{ info.author }}</span>
+                  <span v-if="info.date && !isWork" class="date">Date: {{ new Date(info.date).toLocaleDateString() }}</span>
+               </div>
 
-            <span v-if="info.date && !isWork" class="date">Date: {{ new Date(info.date).toLocaleDateString() }}</span>
+               <div v-if="info.excerpt" class="excerpt" v-html="info.excerpt" />
+            </div>
          </div>
-
-         <div v-if="info.excerpt" class="excerpt" v-html="info.excerpt" />
       </article>
    </div>
 </template>
@@ -50,6 +56,24 @@ defineProps({
    padding: 1rem 1.25rem;
    border: 1px solid var(--vp-c-border);
    border-radius: 0.4rem;
+
+   .article-content {
+      display: flex;
+      gap: 1.25rem;
+      align-items: flex-start;
+   }
+
+   .cover-image {
+      width: 120px;
+      height: 120px;
+      object-fit: cover;
+      border-radius: 0.3rem;
+      flex-shrink: 0;
+   }
+
+   .article-text {
+      flex: 1;
+   }
 
    color: var(--vp-c-text);
 

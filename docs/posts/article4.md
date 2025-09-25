@@ -1,19 +1,8 @@
 ---
-date: 2022-01-04
-category:
-  - Category A
-  - Category B
-tag:
-  - tag A
-  - tag B
+date: 2022-01-01
+image: ./portfolio/w4.jpeg
 ---
 
-# Article 4
+# Young Happy Innosilverhub
 
-## Heading 2
-
-Here is the content.
-
-### Heading 3
-
-Here is the content.
+A Go-based web API using the Gin framework, creates a community platform focused on innovation, technology, and knowledge sharing, specifically for the elderly and Implemented a serverless architecture using GCP's Cloud Scheduler and Cloud Functions to automatically generate sitemaps for improved SEO.

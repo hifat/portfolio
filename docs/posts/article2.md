@@ -1,18 +1,8 @@
 ---
-date: 2022-01-02
-category:
-  - Category A
-tag:
-  - tag A
-  - tag B
+date: 2022-01-01
+image: ./portfolio/w2.jpeg
 ---
 
-# Article 2
+# DBD e-Registration Project
 
-## Heading 2
-
-Here is the content.
-
-### Heading 3
-
-Here is the content.
+Developed web API using Go and Gin, Online company registration system for juristic and individuals that collects various services to register a company with the Department of Business Development.
