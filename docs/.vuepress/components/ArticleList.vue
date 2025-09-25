@@ -22,7 +22,6 @@ defineProps({
     >
       <header class="title">
         {{
-          (isWork ? `${new Date(info.date).getFullYear()}: ` : '') +
           info.title
         }}
       </header>
