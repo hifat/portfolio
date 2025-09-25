@@ -2,6 +2,7 @@
 import { useBlogType } from '@vuepress/plugin-blog/client'
 import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue'
 import ArticleList from '../components/ArticleList.vue'
+import ArticleList2 from '../components/ArticleList2.vue'
 
 const works = useBlogType('work')
 </script>
@@ -11,6 +12,10 @@ const works = useBlogType('work')
     <template #page>
       <main class="page">
         <h1 class="work-title">Work</h1>
+        <h3 class="txt-center">2025 - present</h3>
+        <ArticleList2 :items="works.items" is-work />
+
+        <h3 class="txt-center">2022 - 2024</h3>
         <ArticleList :items="works.items" is-work />
       </main>
     </template>
@@ -18,6 +23,10 @@ const works = useBlogType('work')
 </template>
 
 <style lang="scss">
+.txt-center {
+  text-align: center;
+}
+
 .work-title {
   padding-top: calc(var(--navbar-height) + 1rem) !important;
   text-align: center;

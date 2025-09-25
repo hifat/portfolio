@@ -47,6 +47,7 @@ export default defineUserConfig({
         category: frontmatter.category || [],
         tag: frontmatter.tag || [],
         image: frontmatter.image || '',
+        type: frontmatter.type || '',
         excerpt:
           // Support manually set excerpt through frontmatter
           typeof frontmatter.excerpt === 'string'
