@@ -6,8 +6,8 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   lang: 'en-US',
 
-  title: 'Hi-Fat',
-  description: 'Welcome to my site :)',
+  title: 'Hi Fat Work',
+  description: "Hi I'm Noei, Welcome to my site :)",
 
   theme: defaultTheme({
     logo: '',
