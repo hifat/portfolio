@@ -5,8 +5,8 @@ defineProps({
     type: Array,
     required: true,
   },
-  /** Whether is timeline or not */
-  isTimeline: Boolean,
+  /** Whether is work or not */
+  isWork: Boolean,
 })
 </script>
 
@@ -22,7 +22,7 @@ defineProps({
     >
       <header class="title">
         {{
-          (isTimeline ? `${new Date(info.date).getFullYear()}: ` : '') +
+          (isWork ? `${new Date(info.date).getFullYear()}: ` : '') +
           info.title
         }}
       </header>
@@ -32,7 +32,7 @@ defineProps({
       <div class="article-info">
         <span v-if="info.author" class="author">Author: {{ info.author }}</span>
 
-        <span v-if="info.date && !isTimeline" class="date"
+        <span v-if="info.date && !isWork" class="date"
           >Date: {{ new Date(info.date).toLocaleDateString() }}</span
         >
 

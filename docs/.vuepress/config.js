@@ -27,8 +27,8 @@ export default defineUserConfig({
       //   link: '/tag/',
       // },
       {
-        text: 'Timeline',
-        link: '/timeline/',
+        text: 'Work',
+        link: '/work/',
       },
     ],
   }),
@@ -119,16 +119,16 @@ export default defineUserConfig({
           },
         },
         {
-          key: 'timeline',
-          // Only article with date should be added to timeline
+          key: 'work',
+          // Only article with date should be added to work
           filter: (page) => page.frontmatter.date instanceof Date,
           // Sort pages with time
           sorter: (pageA, pageB) =>
             new Date(pageB.frontmatter.date).getTime() -
             new Date(pageA.frontmatter.date).getTime(),
-          layout: 'Timeline',
+          layout: 'Work',
           frontmatter: () => ({
-            title: 'Timeline',
+            title: 'Work',
             sidebar: false,
           }),
         },
