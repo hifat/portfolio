@@ -1,6 +1,6 @@
 ---
 date: 2022-01-01
-image: ./portfolio/w1.jpeg
+image: ./private-icon.png
 ---
 
 # NCSA CTI
