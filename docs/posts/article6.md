@@ -1,12 +1,12 @@
 ---
 date: 2022-01-01
-image: ./private-icon.png
+image: ./portfolio/w6.jpeg
 ---
 
-# NCSA CTI
+# DPT E-Platform
 
-Used Kibana to explore and design queries on Elasticsearch data. Retrieved, summarized, and stored threat intelligence (malware, TTPs, vulnerabilities, IoCs) into the NCSA CTI database, and developed APIs to feed the dashboard.
+Project, A web API using Go and Gin, an online management system for building services, urban planning services and architectural services for the public of the Department of Public Works and Town & Country Planning, Ministry of Interior.
 
 <!-- more -->
 
-![w1](/private-icon.png)
+![w1](/portfolio/w6.jpeg)
