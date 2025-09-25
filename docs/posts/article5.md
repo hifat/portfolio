@@ -3,6 +3,10 @@ date: 2022-01-01
 image: ./portfolio/w5.jpeg
 ---
 
-# DPT E-Platform Project
+# Cheevamittr
 
-A web API using Go and Gin, an online management system for building services, urban planning services and architectural services for the public of the Department of Public Works and Town & Country Planning, Ministry of Interior.
+I contributed as a Maintainer for the Cheevamittr project, which aims to provide equal access to quality end-of-life care. I implemented structured logging with Zap to improve issue tracking and timely debugging. Additionally, I refactored the PDF Service codebase to enhance readability and maintainability for future developers.
+
+<!-- more -->
+
+![w1](/portfolio/w5.jpeg)
