@@ -7,7 +7,7 @@ export default defineUserConfig({
   lang: 'en-US',
 
   title: 'Hi-Fat',
-  description: '',
+  description: 'Welcome to my site :)',
 
   theme: defaultTheme({
     logo: '',

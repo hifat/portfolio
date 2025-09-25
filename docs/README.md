@@ -3,8 +3,8 @@ home: true
 title: Home 
 heroImage: ./little-hi-fat.png
 actions:
-  - text: Get Started
-    link: /get-started.html
+  - text: See my work
+    link: /work/
     type: primary
 
 features:
