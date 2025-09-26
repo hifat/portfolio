@@ -3,7 +3,7 @@ date: 2022-01-05
 image: ./portfolio/w5.jpeg
 tech_stacks:
     - go
-    - gin-gonic
+    - echo
     - postgressql
     - google-cloud
 ---

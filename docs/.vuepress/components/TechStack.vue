@@ -29,6 +29,7 @@ const logoLinkSet = ref({
    mysql: "https://icon.icepanel.io/Technology/svg/MySQL.svg",
    vue: "https://icon.icepanel.io/Technology/svg/Vue.js.svg",
    express: "https://icon.icepanel.io/Technology/png-shadow-512/Express.png",
+   echo: "https://avatars.githubusercontent.com/u/2624634?s=48&v=4",
 })
 </script>
 
