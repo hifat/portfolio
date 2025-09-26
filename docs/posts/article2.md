@@ -1,6 +1,10 @@
 ---
 date: 2022-01-01
 image: ./portfolio/w2.jpeg
+tech_stacks:
+    - nodejs
+    - nestjs
+    - oracle
 ---
 
 # DBD e-Registration Project

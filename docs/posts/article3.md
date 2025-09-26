@@ -1,6 +1,10 @@
 ---
 date: 2022-01-01
 image: ./portfolio/w3.jpeg
+tech_stacks:
+    - strapi
+    - postgressql
+    - google-cloud
 ---
 
 # Deeploy Blog CMS

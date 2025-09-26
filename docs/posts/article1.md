@@ -1,6 +1,11 @@
 ---
 date: 2022-01-01
 image: ./portfolio/w1.jpeg
+tech_stacks:
+    - go
+    - gin-gonic
+    - postgressql
+    - google-cloud
 ---
 
 # NUDD

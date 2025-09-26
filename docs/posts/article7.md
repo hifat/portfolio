@@ -1,6 +1,12 @@
 ---
 date: 2022-01-01
 image: ./private-icon.png
+tech_stacks:
+    - go
+    - gin-gonic
+    - postgressql
+    - kibana
+    - elasticsearch
 ---
 
 # NCSA CTI

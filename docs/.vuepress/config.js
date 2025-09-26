@@ -48,6 +48,7 @@ export default defineUserConfig({
         tag: frontmatter.tag || [],
         image: frontmatter.image || '',
         type: frontmatter.type || '',
+        tech_stacks: frontmatter.tech_stacks || [],
         excerpt:
           // Support manually set excerpt through frontmatter
           typeof frontmatter.excerpt === 'string'

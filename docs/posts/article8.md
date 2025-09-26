@@ -2,6 +2,14 @@
 date: 2022-01-01
 image: ./portfolio/p1.jpeg
 type: personal-work
+tech_stacks:
+    - go
+    - gin-gonic
+    - mongodb
+    - jenkins
+    - sonarqube
+    - argocd
+    - k8s
 ---
 
 # Mallow Sale API

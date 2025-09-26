@@ -1,5 +1,6 @@
 <script setup>
 import { withBase } from 'vuepress/client'
+import TechStack from '../components/TechStack.vue'
 
 defineProps({
    /** Article items */
@@ -26,6 +27,8 @@ defineProps({
                </header>
 
                <hr />
+
+               <TechStack :stacks="info.tech_stacks" />
 
                <div class="article-info">
                   <span v-if="info.author" class="author">Author: {{ info.author }}</span>

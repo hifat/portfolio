@@ -1,6 +1,10 @@
 ---
 date: 2022-01-01
 image: ./portfolio/w6.jpeg
+tech_stacks:
+    - go
+    - gin-gonic
+    - oracle
 ---
 
 # DPT E-Platform
