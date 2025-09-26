@@ -30,6 +30,8 @@ const logoLinkSet = ref({
    vue: "https://icon.icepanel.io/Technology/svg/Vue.js.svg",
    express: "https://icon.icepanel.io/Technology/png-shadow-512/Express.png",
    echo: "https://avatars.githubusercontent.com/u/2624634?s=48&v=4",
+   php: "https://icon.icepanel.io/Technology/svg/PHP.svg",
+   jquery: "https://icon.icepanel.io/Technology/svg/jQuery.svg",
 })
 </script>
 
