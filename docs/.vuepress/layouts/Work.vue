@@ -2,7 +2,6 @@
 import { useBlogType } from '@vuepress/plugin-blog/client'
 import ParentLayout from '@vuepress/theme-default/layouts/Layout.vue'
 import ArticleList from '../components/ArticleList.vue'
-import ArticleList2 from '../components/ArticleList2.vue'
 
 const works = useBlogType('work')
 </script>
@@ -16,13 +15,13 @@ const works = useBlogType('work')
           PERSONAL PROJECTS / INDEPENDENT DEVELOPMENT<br>
           2025 - present
         </h3>
-        <ArticleList2 :items="works.items" is-work />
+        <ArticleList :items="works.items.filter((item) => item.info.type == 'personal-work')" is-work />
 
         <h3 class="txt-center">
           DEEPLOY TECHNOLOGY COMPANY <br>
           2022 - 2024
         </h3>
-        <ArticleList :items="works.items" is-work />
+        <ArticleList :items="works.items.filter((item) => item.info.type == '')" is-work />
       </main>
     </template>
   </ParentLayout>

@@ -17,7 +17,7 @@ defineProps({
    <div class="article-wrapper">
       <div v-if="!items.length">Nothing in here.</div>
 
-      <article v-for="{ info, path } in items.filter((item) => item.info.type !== 'personal-work')" :key="path" class="article" @click="$router.push(path)">
+      <article v-for="{ info, path } in items" :key="path" class="article" @click="$router.push(path)">
          <div class="article-content">
             <div class="article-img-wrapper">
                <img v-if="info.image" :src="withBase(info.image)" class="article-img" />
