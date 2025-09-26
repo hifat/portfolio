@@ -1,6 +1,6 @@
 ---
 date: 2022-01-01
-image: ./private-icon.png
+image: ./portfolio/p1.jpeg
 type: personal-work
 ---
 
@@ -10,4 +10,4 @@ A lightweight and easy-to-use point-of-sale (POS) system built for daily operati
 
 <!-- more -->
 
-![w1](/private-icon.png)
+![w1](/portfolio/p1.jpeg)
