@@ -10,4 +10,6 @@ A lightweight and easy-to-use point-of-sale (POS) system built for daily operati
 
 <!-- more -->
 
+**github:** [mallow-sale-api](https://github.com/hifat/mallow-sale-api)
+
 ![w1](/portfolio/p1.jpeg)
