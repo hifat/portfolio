@@ -28,6 +28,7 @@ const logoLinkSet = ref({
    laravel: "https://icon.icepanel.io/Technology/svg/Laravel.svg",
    mysql: "https://icon.icepanel.io/Technology/svg/MySQL.svg",
    vue: "https://icon.icepanel.io/Technology/svg/Vue.js.svg",
+   express: "https://icon.icepanel.io/Technology/png-shadow-512/Express.png",
 })
 </script>
 

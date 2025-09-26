@@ -22,6 +22,13 @@ const works = useBlogType('work')
           2022 - 2024
         </h3>
         <ArticleList :items="works.items.filter((item) => item.info.type == '')" is-work />
+
+        <h2 class="txt-center">Student Projects That Shaped My Skills</h2>
+
+        <h3 class="txt-center">
+          2021 - PAYAP UNIVERSITY(Work Scholarships)
+        </h3>
+        <ArticleList :items="works.items.filter((item) => item.info.type == 'bc-work')" is-work />
       </main>
     </template>
   </ParentLayout>

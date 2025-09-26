@@ -1,7 +1,7 @@
 ---
-date: 2019-01-01
-image: https://drive.google.com/file/d/1CqUdgyVQ6CRnWDqCyBRKEvtZcBuZnjns/view?usp=drive_link
-type: vc-work
+date: 2019-01-05
+image: ./portfolio/bc/carbooking/1.jpg
+type: bc-work
 tech_stacks:
     - laravel
     - vue
@@ -10,10 +10,13 @@ tech_stacks:
 
 # Car Booking (Senior Project)
 
-Project, Designed and implemented backend APIs using Go (Gin framework) to support clinic search and appointment booking. Built logic for user management, scheduling, and role-based access for clinic admins, doctors, and end-users.
+A web application for managing university car bookings, designed to match the real booking workflow. Every booking requires approval from the project supervisor. Includes an admin dashboard for managing bookings and generating reports (charts) by year, month, and week.
 
 <!-- more -->
 
-![w1](https://drive.google.com/file/d/1CqUdgyVQ6CRnWDqCyBRKEvtZcBuZnjns/view?usp=drive_link)
+![w1](./portfolio/bc/carbooking/1.jpg)
+![w2](./portfolio/bc/carbooking/2.jpeg)
+![w3](./portfolio/bc/carbooking/3.jpg)
+![w4](./portfolio/bc/carbooking/4.jpeg)
 
 

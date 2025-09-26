@@ -1,6 +1,7 @@
 ---
-date: 2021-01-01
-image: https://drive.google.com/file/d/1CqUdgyVQ6CRnWDqCyBRKEvtZcBuZnjns/view?usp=drive_link
+date: 2020-01-05
+image: ./portfolio/bc/carbooking/1.jpg
+type: bc-work
 tech_stacks:
     - laravel
     - vue
@@ -13,4 +14,7 @@ Project, Designed and implemented backend APIs using Go (Gin framework) to suppo
 
 <!-- more -->
 
-![w1](https://drive.google.com/file/d/1CqUdgyVQ6CRnWDqCyBRKEvtZcBuZnjns/view?usp=drive_link)
+![w1](/portfolio/bc/carbooking/1.jpg)
+![w1](/portfolio/bc/carbooking/2.jpeg)
+![w1](/portfolio/bc/carbooking/3.jpg)
+![w1](/portfolio/bc/carbooking/4.jpeg)
