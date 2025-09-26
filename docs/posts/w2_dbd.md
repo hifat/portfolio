@@ -1,5 +1,5 @@
 ---
-date: 2022-01-01
+date: 2022-01-02
 image: ./portfolio/w2.jpeg
 tech_stacks:
     - nodejs

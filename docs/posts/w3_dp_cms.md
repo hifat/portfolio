@@ -1,5 +1,5 @@
 ---
-date: 2022-01-01
+date: 2022-01-03
 image: ./portfolio/w3.jpeg
 tech_stacks:
     - strapi

@@ -25,6 +25,9 @@ const logoLinkSet = ref({
    strapi: "https://assets.super.so/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png",
    kibana: "https://icon.icepanel.io/Technology/svg/Kibana.svg",
    elasticsearch: "https://icon.icepanel.io/Technology/png-shadow-512/Elastic-Search.png",
+   laravel: "https://icon.icepanel.io/Technology/svg/Laravel.svg",
+   mysql: "https://icon.icepanel.io/Technology/svg/MySQL.svg",
+   vue: "https://icon.icepanel.io/Technology/svg/Vue.js.svg",
 })
 </script>
 

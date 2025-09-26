@@ -1,5 +1,5 @@
 ---
-date: 2022-01-01
+date: 2022-01-06
 image: ./portfolio/w6.jpeg
 tech_stacks:
     - go

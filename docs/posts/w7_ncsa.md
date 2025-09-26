@@ -1,5 +1,5 @@
 ---
-date: 2022-01-01
+date: 2022-01-07
 image: ./private-icon.png
 tech_stacks:
     - go

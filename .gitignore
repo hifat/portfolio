@@ -42,3 +42,4 @@ yarn-error.log*
 
 # Optional: ignore docs assets that are generated
 docs/.vuepress/public/assets/
+temp
