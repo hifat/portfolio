@@ -15,6 +15,6 @@ A web application for managing members and activities of the Mea Khue seniors cl
 
 ![w1](/portfolio/bc/seniorclub/0.jpg)
 ![w1](/portfolio/bc/seniorclub/1.jpg)
-![w1](/portfolio/bc/seniorclub/2.jpeg)
+![w1](/portfolio/bc/seniorclub/2.jpg)
 ![w1](/portfolio/bc/seniorclub/3.jpg)
-![w1](/portfolio/bc/seniorclub/4.jpeg)
+![w1](/portfolio/bc/seniorclub/4.jpg)

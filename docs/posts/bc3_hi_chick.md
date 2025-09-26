@@ -14,6 +14,6 @@ An interactive game showcased at the CS Fair, developed with Arduino hardware an
 <!-- more -->
 
 ![w1](/portfolio/bc/hichick/1.jpg)
-![w1](/portfolio/bc/hichick/2.jpeg)
+![w1](/portfolio/bc/hichick/2.jpg)
 ![w1](/portfolio/bc/hichick/3.jpg)
-![w1](/portfolio/bc/hichick/4.jpeg)
+![w1](/portfolio/bc/hichick/4.jpg)

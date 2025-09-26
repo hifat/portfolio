@@ -14,6 +14,6 @@ A web application for managing internal mail circulation within the IT departmen
 <!-- more -->
 
 ![w1](/portfolio/bc/edoc/1.jpg)
-![w1](/portfolio/bc/edoc/2.jpb)
+![w1](/portfolio/bc/edoc/2.jpg)
 ![w1](/portfolio/bc/edoc/3.jpg)
-![w1](/portfolio/bc/edoc/4.jpb)
+![w1](/portfolio/bc/edoc/4.jpg)

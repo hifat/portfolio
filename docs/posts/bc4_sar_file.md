@@ -15,6 +15,6 @@ A web application for uploading quality assurance evidence files at my universit
 <!-- more -->
 
 ![w1](/portfolio/bc/sarfile/1.jpg)
-![w1](/portfolio/bc/sarfile/2.jpeg)
+![w1](/portfolio/bc/sarfile/2.jpg)
 ![w1](/portfolio/bc/sarfile/3.jpg)
-![w1](/portfolio/bc/sarfile/4.jpeg)
+![w1](/portfolio/bc/sarfile/4.jpg)
