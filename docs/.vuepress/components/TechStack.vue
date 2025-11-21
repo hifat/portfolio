@@ -32,6 +32,11 @@ const logoLinkSet = ref({
    echo: "https://avatars.githubusercontent.com/u/2624634?s=48&v=4",
    php: "https://icon.icepanel.io/Technology/svg/PHP.svg",
    jquery: "https://icon.icepanel.io/Technology/svg/jQuery.svg",
+   'qdrant-db': "https://files.svgcdn.io/logos/qdrant-icon.png",
+   gemini: "https://static.vecteezy.com/system/resources/previews/055/687/065/non_2x/gemini-google-icon-symbol-logo-free-png.png",
+   ollama: "https://images.seeklogo.com/logo-png/59/1/ollama-logo-png_seeklogo-593420.png",
+   'cloud-vision': "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/eb1b68f8-21ce-4a7e-a7ec-d1adddeba179.png?w=128&h=128&fit=max&dpr=3&auto=format&q=50",
+   grpc: "https://grpc.io/img/logos/grpc-icon-color.png",
 })
 </script>
 
