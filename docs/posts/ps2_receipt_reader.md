@@ -1,5 +1,5 @@
 ---
-date: 2025-01-01
+date: 2025-01-02
 image: ./portfolio/p2-1.jpg
 type: personal-work
 tech_stacks:
