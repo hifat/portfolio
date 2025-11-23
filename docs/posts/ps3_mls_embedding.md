@@ -17,4 +17,4 @@ This service addresses inconsistent product naming across retailers by generatin
 
 **github:** [mallow-sale-embedding](https://github.com/hifat/mallow-sale-embedding)
 
-<!-- ![w1](/portfolio/p2-1.jpg) -->
+![w1](/portfolio/p3-1.png)
